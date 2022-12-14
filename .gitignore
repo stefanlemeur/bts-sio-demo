@@ -5,3 +5,8 @@
 *.njsproj
 *.sln
 .vscode
+
+test*.*
+Test*.*
+test*/*
+Test*/*
